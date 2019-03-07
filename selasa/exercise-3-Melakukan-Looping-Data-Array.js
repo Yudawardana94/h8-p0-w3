@@ -20,4 +20,4 @@ function data(arr){
 }
 console.log(data(input))
 
-// tanyakan tentang bagaimana kalau menggunakan return dan bukan console.log
+

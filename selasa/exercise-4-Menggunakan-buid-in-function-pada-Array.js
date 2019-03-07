@@ -72,7 +72,3 @@ console.log('---------------------------------')
 var hasilSlice = input[1].slice(0,15)
 console.log(hasilSlice)
 
-
-
-
-// yang belum bekerja adalah bagian dan sortnya
