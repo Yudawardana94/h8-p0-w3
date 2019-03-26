@@ -62,11 +62,11 @@ console.log(bulan);
 console.log(tahun);
 console.log('---------------------------------')
 
-pisah.sort()
-console.log(pisah)
+console.log(pisah.join('-'))
 console.log('---------------------------------')
 
-console.log(pisah.join('-'))
+pisah.sort()
+console.log(pisah)
 console.log('---------------------------------')
 
 var hasilSlice = input[1].slice(0,15)
